@@ -2,7 +2,7 @@ body {
     background: #CCCCCC
 }
 
-#banner {
+#barbearia {
     width: 100%;
 }
 
@@ -20,6 +20,9 @@ p {
 
 em strong {
     color: #FF0000;
+}
 
+.itens {
+    font-style: italic
 }
 
