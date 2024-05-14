@@ -1,9 +1,13 @@
 body {
-    background: #CCCCCC
+    
 }
 
 #barbearia {
     width: 100%;
+}
+
+.principal {
+    background: #CCCCCC
 }
 
 h1 {
@@ -24,5 +28,20 @@ em strong {
 
 .itens {
     font-style: italic
+}
+
+.beneficios {
+    background: #FFFFFF;
+}
+
+h2 {
+    text-align: center;
+}
+ul {
+    display: inline-block;
+}
+
+.imagembeneficios {
+    width: 50%;
 }
 
